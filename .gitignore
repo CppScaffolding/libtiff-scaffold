@@ -1,0 +1,4 @@
+## .gitignore file for libtiff-scaffold
+
+## ignore folder fetched through gclient
+libtiff
